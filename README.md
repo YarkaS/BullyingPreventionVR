@@ -1,7 +1,7 @@
 # BullyingPreventionVR
 An educative VR game designed to prevent bullying
 
-<ORIGINAL RESEARCH article
+< ORIGINAL RESEARCH article
           
 Front. Virtual Real., 28 September 2021
 Sec. Virtual Reality in Medicine
